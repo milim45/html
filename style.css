@@ -1,0 +1,24 @@
+img {
+	width:400;
+	border:2px solid blue;
+	
+}
+
+
+.big {
+	color: red;
+	font-size: 30px;
+}
+
+body{
+background-color:LightGray
+
+}
+
+#special{
+	border: 2px solid green;
+	font-size: 100PX;
+	background-color: yellow;
+	width: 30%
+}
+
