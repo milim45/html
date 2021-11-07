@@ -39,9 +39,9 @@ div{
 }
 
 #special{
-	border: 2px solid green;
-	font-size: 100PX;
-	background-color: yellow;
+	border: 2px solid grey;
+	font-size: 20PX;
+	background-color: white;
 	width: 30%
 }
 
