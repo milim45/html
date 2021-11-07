@@ -34,16 +34,12 @@ H2 {
 }
 
 
-div{
-	test-align: justify;
-}
-
 .box{
 	
 	font-size: 20PX;
 	background-color: white;
 	border: solid black 2px;
-	margin: 300px;
+	margin: 30px;
 
 }
 
