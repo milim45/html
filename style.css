@@ -42,6 +42,8 @@ div{
 	border: 2px solid grey;
 	font-size: 20PX;
 	background-color: white;
-	width: 30%
+	width: 30%;
+	padding:10px;
+
 }
 
